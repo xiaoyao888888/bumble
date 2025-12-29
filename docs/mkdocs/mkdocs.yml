@@ -5,6 +5,7 @@ use_directory_urls: false
 nav:
   - Introduction: index.md
   - Getting Started: getting_started.md
+  - Comparison with BlueZ: comparison_with_bluez.md
   - Development:
     - Python Environments: development/python_environments.md
     - Contributing: development/contributing.md
