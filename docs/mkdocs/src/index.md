@@ -10,6 +10,9 @@ eventually added. Support for BLE is therefore currently somewhat more advanced 
 !!! warning
     This project is still in an early state of development where some things are still missing or broken, and what's implemented may change and evolve frequently.
 
+!!! tip "Comparison with BlueZ"
+    If you're wondering how Bumble compares to BlueZ (the standard Linux Bluetooth stack), see the [Comparison with BlueZ](comparison_with_bluez.md) page to understand the differences, advantages, and when to use each solution.
+
 Overview
 --------
 
